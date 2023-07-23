@@ -1,1 +1,6 @@
-./elm-stuff
+elm-stuff/
+Browser
+Html
+Http
+Process
+Task
