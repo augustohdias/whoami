@@ -165,7 +165,7 @@ profile model =
           , p paragraphStyle [ text "✷ 1996 † 20XX"]
           , p paragraphStyle [ text "minas gerais, brazil" ]
           , p paragraphStyle [ text "i like cats, sandbox games, functional programming and to do ugly web pages. this one i made with elm!" ]
-          , p paragraphStyle [ text "currently working as backend developer, probably with java-like stuff and wishing it was something funnier."]
+          , p paragraphStyle [ text "currently working as backend developer, probably with java-like stuff and wishing it was something else funnier."]
           , viewLessButton
           ]
         else 
