@@ -3,7 +3,7 @@ type: ProfileInfo
 date: 25-07-23
 title: guto
 ---
-# [guto@space]$ whoami
+# [guto@space ~]$ whoami
 
 ✷ 1996 † 20XX
 
