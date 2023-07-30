@@ -1,6 +1,6 @@
 ---
 type: BlogPost
-date: 25-07-23
+date: 25-07-2023
 title: home directory 
 ---
 # [guto@space ~] cat README.md
