@@ -3,9 +3,9 @@ type: ProfileInfo
 date: 25-07-23
 title: guto
 ---
-# [guto@space ~]$ whoami
+# $ whoami
 
-✷ 1996 † 20XX
+✷ 1996 † 20??
 
 minas gerais, brazil
 
