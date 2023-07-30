@@ -28,7 +28,7 @@ Até então eu ainda não tinha me ligado que outras pessoas têm blogs hospedad
 
 Quando descobri que o que o Jekyll fazia era exatamente o que eu queria, decidi ~~usar o Jekyll~~ fazer um igual do zero: Uma ferramenta para criar e publicar no próprio blog ao alcance de 2 comandos. 
 
-Foi aí que criei o whoareu. O whoareu é uma ferramenta CLI que gera `HTML` estático a partir de arquivos `Markdown` e estrutura as páginas geradas como blog. Por enquanto as features implementadas são:
+Foi aí que surgiu o whoareu. O whoareu é uma ferramenta CLI que gera `HTML` estático a partir de arquivos `Markdown` e estrutura as páginas geradas como blog. Por enquanto as features implementadas são:
 
 - Criar a estrutura de um novo blog: `whoareu init`
 - Gerar o `HTML` do blog: `whoareu build`
