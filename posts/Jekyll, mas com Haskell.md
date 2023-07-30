@@ -16,10 +16,6 @@ Eu lembro que desde moleque eu adorava brincar com a customização de blogs. Pr
 
 Talvez essas épocas tenham sido as maiores influências para eu ter seguido carreira como programador.
 
-## Twitter vs. Threads
-
-Recentemente, com toda essa onda de migrar de uma rede social para outra e mais uma pitada de saudade da internet dos anos 2000, eu acabei ficando com muita vontade de criar um blog, mas só de pensar em usar qualquer plataforma para hospedagem me fazia logo descartar a ideia, geralmente a usabilidade dessas plataformas me da preguiça, queria poder fazer tudo a partir de um terminal: Criar o blog, postar, editar.
-
 ## Tool a :: Jekyll a -> Haskell a
 
 Juntei a vontade de programar em alguma linguagem funcional com a nostalgia da internet dos anos 2000 e fui brincar com `Elm`. Fiz o layout do blog e comecei a pensar que seria muito interessante se meus posts fossem arquivos `Markdown` processados pela SPA em Elm para construir a página.
