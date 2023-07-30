@@ -18,16 +18,15 @@ Talvez essas épocas tenham sido as maiores influências para eu ter seguido car
 
 ## Twitter vs. Threads
 
-Recentemente, com toda essa onda de migrar de uma rede social para outra e mais uma pitada de saudade da internet dos anos 2000, eu acabei ficando com muita vontade de criar um blog, mas por algum motivo só pensar em usar qualquer plataforma para hospedagem me fazia logo descartar a ideia. Mas felizmente, graças à página [makefronendshitagain](https://makefrontendshitagain.party) eu finalmente consegui a inspiração que tava faltando.
-
+Recentemente, com toda essa onda de migrar de uma rede social para outra e mais uma pitada de saudade da internet dos anos 2000, eu acabei ficando com muita vontade de criar um blog, mas só de pensar em usar qualquer plataforma para hospedagem me fazia logo descartar a ideia, geralmente a usabilidade dessas plataformas me da preguiça, queria poder fazer tudo a partir de um terminal: Criar o blog, postar, editar.
 
 ## Elm -> Jekyll -> Haskell
 
-Juntei a vontade de programar em alguma linguagem funcional e fui brincar com `Elm`. Até então eu não tinha me ligado que outras pessoas têm blogs hospedados no github e que já existem ferramentas para fazer isso. Foi aí que eu descobri o Jekyll.
+Juntei a vontade de programar em alguma linguagem funcional e fui brincar com `Elm`. Até então eu ainda não tinha me ligado que outras pessoas têm blogs hospedados no github e que já existem ferramentas para fazer isso. Foi aí que eu descobri o Jekyll.
 
-Quando descobri que o que o Jekyll fazia era exatamente o que eu queria, decidi avançar com a minha ideia e fazer algo parecido: Uma ferramenta para criar o proprio blog ao alcance de 2 comandos. 
+Quando descobri que o que o Jekyll fazia era exatamente o que eu queria, decidi avançar com a minha ideia e fazer algo parecido: Uma ferramenta para criar o proprio e publicar no blog ao alcance de 2 comandos. 
 
-Foi aí então que criei o whoareu. O whoareu é uma ferramenta CLI que gera `HTML` estático a partir de arquivos `Markdown` e estrutura os resultados como blog. Por enquanto as features implementadas são:
+Foi aí que criei o whoareu. O whoareu é uma ferramenta CLI que gera `HTML` estático a partir de arquivos `Markdown` e estrutura os resultados como blog. Por enquanto as features implementadas são:
 
 - Criar a estrutura de um novo blog: `whoareu init`
 - Gerar o `HTML` do blog: `whoareu build`
