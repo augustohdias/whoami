@@ -31,7 +31,7 @@ Foi aí que criei o whoareu. O whoareu é uma ferramenta CLI que gera `HTML` est
 - Criar a estrutura de um novo blog: `whoareu init`
 - Gerar o `HTML` do blog: `whoareu build`
 
-Planejo adicionar coisas como suporte a temas, live-update e ferramentas para publicação multi-plataforma.
+Planejo adicionar coisas como suporte a temas, live-update e ferramentas para publicação multi-plataforma no futuro.
 
 Por enquanto é isso, o [whoareu](https://github.com/augustohdias/whoareu) é livre para uso e contribuição, fiquem a vontade e divirtam-se!
 
