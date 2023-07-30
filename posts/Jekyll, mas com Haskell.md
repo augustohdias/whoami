@@ -26,7 +26,7 @@ Juntei a vontade de programar em alguma linguagem funcional com a nostalgia da i
 
 Até então eu ainda não tinha me ligado que outras pessoas têm blogs hospedados no github e que já existem ferramentas para fazer isso. Foi aí que eu descobri o Jekyll.
 
-Quando descobri que o que o Jekyll fazia era exatamente o que eu queria, decidi ~~usar o Jekyll~~ fazer um igual do zero: Uma ferramenta para criar o proprio e publicar no blog ao alcance de 2 comandos. 
+Quando descobri que o que o Jekyll fazia era exatamente o que eu queria, decidi ~~usar o Jekyll~~ fazer um igual do zero: Uma ferramenta para criar e publicar no próprio blog ao alcance de 2 comandos. 
 
 Foi aí que criei o whoareu. O whoareu é uma ferramenta CLI que gera `HTML` estático a partir de arquivos `Markdown` e estrutura as páginas geradas como blog. Por enquanto as features implementadas são:
 
