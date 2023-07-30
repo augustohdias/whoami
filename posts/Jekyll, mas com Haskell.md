@@ -4,13 +4,21 @@ date: 30-07-2023
 title: Jekyll, mas com Haskell
 ---
 
-# [guto@space ~] stack new whoareu
+<style>
+img {
+  min-width:100%;
+  max-width: 100%;
+  height: auto;
+}
+</style>
 
-## Como começou?
+# [guto@space ~] stack new whoareu
 
 Esse projeto começou com uma tentativa de fazer um SPA em Elm e acabou virando uma das coisas mais divertidas que fiz nos últimos tempos.
 
 ## Nostalgia...
+
+![Bem-vindo à internet!](./resources/img/internet.jpg)
 
 Eu lembro que desde moleque eu adorava brincar com a customização de blogs. Primeiro veio o blogspot, onde eu não compartilhava nada e passava a maior parte do tempo mudando o layout e as cores do tema. Depois veio o tumblr, nessa época eu já era um pouco mais velho e conseguia entender melhor como html funcionava. Eu passava horas procurando algum tema que eu gostasse em blogs de amigos e depois mais horas ainda editando e parametrizando tudo.
 
